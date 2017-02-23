@@ -1,7 +1,7 @@
 *IDEA135: Games at Work*
 # Sketch 8: p5 pong
 
-** Create a simple ball bouncing game using p5.js.**
+**Create a simple ball bouncing game using p5.js.**
 
 ## Rules
 
